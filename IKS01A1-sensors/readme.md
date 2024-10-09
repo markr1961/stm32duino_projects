@@ -1,6 +1,8 @@
 ## IKS01A1-sensors
-reading the 4 sensors on the X Nucleo IKS01A1  
-The X-NUCLEO-IKS01A1 interfaces with the STM32 microcontroller via the I²C pins.
+reading the 4 sensors on the X Nucleo IKS01A1 board. 
+The X-NUCLEO-IKS01A1 interfaces with the STM32 microcontroller via the I²C pins.  
+Part of [markr1961/stm32duino_projects](https://github.com/markr1961/stm32duino_projects), 
+example purloined from https://github.com/stm32duino/X-NUCLEO-IKS01A1  
 
 device  | I2C addr  | description
 ------- |-----------|------------
@@ -24,4 +26,4 @@ The X-NUCLEO-IKS01A1 library requires the following STM32duino libraries:
 [STM32duino HTS221](https://github.com/stm32duino/HTS221)  
 [STM32duino LPS25HB](https://github.com/stm32duino/LPS25HB)  
 
-For more information see [MEMS X-Nucleo.md](link needed to MEMS X-Nucleo.md)
+For more information see [MEMS X-Nucleo.md](https://github.com/markr1961/stm32duino_projects/blob/main/IKS01A1-sensors/MEMS%20X-Nucleo.md)
